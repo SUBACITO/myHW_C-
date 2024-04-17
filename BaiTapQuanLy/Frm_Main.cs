@@ -170,5 +170,10 @@ namespace BaiTapQuanLy
         {
             Application.Exit();
         }
+
+        private void bánHàngToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            OpenForm(true, "Quan Ly Nhap Hang", new Frm_BanHang());
+        }
     }
 }

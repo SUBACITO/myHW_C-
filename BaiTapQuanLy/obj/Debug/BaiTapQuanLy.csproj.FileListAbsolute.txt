@@ -157,3 +157,25 @@ C:\Users\LHUser\Downloads\Nguyễn Trần Giang Vỹ - 121000672 - 4-3-2024\BaiT
 C:\Users\LHUser\Downloads\Nguyễn Trần Giang Vỹ - 121000672 - 4-3-2024\BaiTapQuanLy 27-3-2024\BaiTapQuanLy\obj\Debug\BaiTapQuanLy.Properties.Resources.resources
 C:\Users\LHUser\Downloads\Nguyễn Trần Giang Vỹ - 121000672 - 4-3-2024\BaiTapQuanLy 27-3-2024\BaiTapQuanLy\obj\Debug\BaiTapQuanLy.csproj.GenerateResource.Cache
 C:\Users\LHUser\Downloads\Nguyễn Trần Giang Vỹ - 121000672 - 4-3-2024\BaiTapQuanLy 27-3-2024\BaiTapQuanLy\obj\Debug\BaiTapQuanLy.Frm_QuanLySanPham_Modified.resources
+C:\Users\LHUser\Desktop\New folder\myHW_C-\BaiTapQuanLy\bin\Debug\BaiTapQuanLy.exe.config
+C:\Users\LHUser\Desktop\New folder\myHW_C-\BaiTapQuanLy\obj\Debug\BaiTapQuanLy.exe
+C:\Users\LHUser\Desktop\New folder\myHW_C-\BaiTapQuanLy\obj\Debug\BaiTapQuanLy.pdb
+C:\Users\LHUser\Desktop\New folder\myHW_C-\BaiTapQuanLy\obj\Debug\BaiTapQuanLy.csprojResolveAssemblyReference.cache
+C:\Users\LHUser\Desktop\New folder\myHW_C-\BaiTapQuanLy\obj\Debug\BaiTapQuanLy.Frm_BanHang.resources
+C:\Users\LHUser\Desktop\New folder\myHW_C-\BaiTapQuanLy\obj\Debug\BaiTapQuanLy.Frm_DangNhap.resources
+C:\Users\LHUser\Desktop\New folder\myHW_C-\BaiTapQuanLy\obj\Debug\BaiTapQuanLy.Frm_DoiMatKhau.resources
+C:\Users\LHUser\Desktop\New folder\myHW_C-\BaiTapQuanLy\obj\Debug\BaiTapQuanLy.Frm_Main.resources
+C:\Users\LHUser\Desktop\New folder\myHW_C-\BaiTapQuanLy\obj\Debug\BaiTapQuanLy.Frm_PhanQuyen.resources
+C:\Users\LHUser\Desktop\New folder\myHW_C-\BaiTapQuanLy\obj\Debug\BaiTapQuanLy.Frm_QuanLyKhachHang_Main.resources
+C:\Users\LHUser\Desktop\New folder\myHW_C-\BaiTapQuanLy\obj\Debug\BaiTapQuanLy.Frm_QuanLyLoaiHang.resources
+C:\Users\LHUser\Desktop\New folder\myHW_C-\BaiTapQuanLy\obj\Debug\BaiTapQuanLy.Frm_QuanLyLoaiHang_modifer.resources
+C:\Users\LHUser\Desktop\New folder\myHW_C-\BaiTapQuanLy\obj\Debug\BaiTapQuanLy.Frm_QuanLyNhapHang_Main.resources
+C:\Users\LHUser\Desktop\New folder\myHW_C-\BaiTapQuanLy\obj\Debug\BaiTapQuanLy.Frm_QuanLyNhapHang_Modifies.resources
+C:\Users\LHUser\Desktop\New folder\myHW_C-\BaiTapQuanLy\obj\Debug\BaiTapQuanLy.Frm_QuanLySanPham_Main.resources
+C:\Users\LHUser\Desktop\New folder\myHW_C-\BaiTapQuanLy\obj\Debug\BaiTapQuanLy.Frm_QuanLySanPham_Modified.resources
+C:\Users\LHUser\Desktop\New folder\myHW_C-\BaiTapQuanLy\obj\Debug\BaiTapQuanLy.Frm_SaoLuu_PhucHoi.resources
+C:\Users\LHUser\Desktop\New folder\myHW_C-\BaiTapQuanLy\obj\Debug\BaiTapQuanLy.Frm_ThemSuaKhachHang.resources
+C:\Users\LHUser\Desktop\New folder\myHW_C-\BaiTapQuanLy\obj\Debug\BaiTapQuanLy.Properties.Resources.resources
+C:\Users\LHUser\Desktop\New folder\myHW_C-\BaiTapQuanLy\obj\Debug\BaiTapQuanLy.csproj.GenerateResource.Cache
+C:\Users\LHUser\Desktop\New folder\myHW_C-\BaiTapQuanLy\bin\Debug\BaiTapQuanLy.exe
+C:\Users\LHUser\Desktop\New folder\myHW_C-\BaiTapQuanLy\bin\Debug\BaiTapQuanLy.pdb
